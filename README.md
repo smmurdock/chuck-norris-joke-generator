@@ -1,7 +1,7 @@
 # chuck-norris-joke-generator
 Chuck Norris Joke Generator
 
-## Technologies User
+## Technologies Used
 
 - Skeleton CSS
 - AJAX
